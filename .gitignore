@@ -1,7 +1,3 @@
 .env
 node_modules
-<<<<<<< HEAD
-.DS_Store
-=======
 *.log
->>>>>>> d8447cf3ab2e23fa0c935057f1b029c3e83ad44c
